@@ -18,7 +18,7 @@
   <!-- Label to show to user for all apps using this UID. -->
   <string name="uid_label">Media</string>
   <!-- Label to show to user for this package. -->
-  <string name="app_label">Media Storage</string>
+  <string name="app_label">Archivio file multimediali</string>
   <!-- Description line for music artists in the search/suggestion results -->
   <string name="artist_label">Artista</string>
   <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
