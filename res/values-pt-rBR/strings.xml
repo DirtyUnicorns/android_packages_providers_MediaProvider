@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Label to show to user for all apps using this UID. -->
-  <string name="uid_label">Media</string>
+  <string name="uid_label">Mídia</string>
   <!-- Label to show to user for this package. -->
   <string name="app_label">Media Storage</string>
   <!-- Description line for music artists in the search/suggestion results -->
