@@ -18,20 +18,20 @@
   <!-- Label to show to user for all apps using this UID. -->
   <string name="uid_label">Mídia</string>
   <!-- Label to show to user for this package. -->
-  <string name="app_label">Media Storage</string>
+  <string name="app_label">Armazenamento de mídia</string>
   <!-- Description line for music artists in the search/suggestion results -->
-  <string name="artist_label">Artist</string>
+  <string name="artist_label">Artista</string>
   <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
-  <string name="ringtone_default">Default ringtone</string>
+  <string name="ringtone_default">Toque padrão</string>
   <!-- Choice in the notification sound picker.  If chosen, the default notification sound will be
          used. -->
-  <string name="notification_sound_default">Default notification sound</string>
+  <string name="notification_sound_default">Som de notificação padrão</string>
   <!-- Choice in the alarm sound picker.  If chosen, the default alarm sound will be used. -->
-  <string name="alarm_sound_default">Default alarm sound</string>
+  <string name="alarm_sound_default">Som de alarme padrão</string>
   <!-- Title for documents backend that offers images. [CHAR LIMIT=24] -->
-  <string name="root_images">Images</string>
+  <string name="root_images">Imagens</string>
   <!-- Title for documents backend that offers videos. [CHAR LIMIT=24] -->
-  <string name="root_videos">Videos</string>
+  <string name="root_videos">Vídeos</string>
   <!-- Title for documents backend that offers audio. [CHAR LIMIT=24] -->
-  <string name="root_audio">Audio</string>
+  <string name="root_audio">Áudio</string>
 </resources>

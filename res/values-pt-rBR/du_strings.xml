@@ -17,5 +17,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
   <string name="ask_scan_title">Procurar por novos arquivos de mídia?</string>
-  <string name="ask_scan_text">Click to manually trigger media scan</string>
+  <string name="ask_scan_text">Clique para iniciar manualmente varredura de mídia</string>
 </resources>
